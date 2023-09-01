@@ -1,8 +1,10 @@
 # Abenezer Abera
 
 **`I am a (Web Developer/Ethical Hacker/Graphics Designer)`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5016&pause=1009&color=F70000&vCenter=true&width=435&lines=WebDeveloper+%2F+WebDesigner;Ethical+Hacker;Programmer;Graphics+Designer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5016&pause=1009&color=F70000&vCenter=true&width=435&lines=WebDeveloper+%2F+WebDesigner;Ethical+Hacker;Programmer;Graphics+Designer" alt="Typing SVG" /></a>
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Welcome to my github 
 
    <p align="left">
       <a href="https://www.youtube.com/c/Abenezer__?sub_confirmation=1">
@@ -43,7 +45,7 @@ I'm an indie full-stack developer and content creator building my version of the
 -->
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/Abenezer__?sub_confirmation=1)
 
 #
 

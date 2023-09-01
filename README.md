@@ -42,12 +42,14 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<!--
 [![I Built an AI That Feeds Me Coffee for Maximum Efficiency](https://ytcards.demolab.com/?id=tyAPu2cCOZE&title=I+Built+an+AI+That+Feeds+Me+Coffee+for+Maximum+Efficiency&lang=en&timestamp=1693404079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "I Built an AI That Feeds Me Coffee for Maximum Efficiency")](https://www.youtube.com/watch?v=tyAPu2cCOZE)
 [![My Entire Computer Science Student Setup in Notion](https://ytcards.demolab.com/?id=Nv1Z3Aximdg&title=My+Entire+Computer+Science+Student+Setup+in+Notion&lang=en&timestamp=1692043807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296 "My Entire Computer Science Student Setup in Notion")](https://www.youtube.com/watch?v=Nv1Z3Aximdg)
 [![Stack Overflow is dead 😂](https://ytcards.demolab.com/?id=xsXisg-rceQ&title=Stack+Overflow+is+dead+%F0%9F%98%82&lang=en&timestamp=1691589645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=179 "Stack Overflow is dead 😂")](https://www.youtube.com/watch?v=xsXisg-rceQ)
 [![How I Remember Everything (the crazy way)](https://ytcards.demolab.com/?id=u5DGCj5QQTg&title=How+I+Remember+Everything+%28the+crazy+way%29&lang=en&timestamp=1691420442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592 "How I Remember Everything (the crazy way)")](https://www.youtube.com/watch?v=u5DGCj5QQTg)
 [![Three tools that enhance my coding workflow](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")](https://www.youtube.com/watch?v=o4v1tFN7SBk)
 [![How to Level Up Your Programming](https://ytcards.demolab.com/?id=WFRvz7LDUeI&title=How+to+Level+Up+Your+Programming&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601 "How to Level Up Your Programming")](https://www.youtube.com/watch?v=WFRvz7LDUeI)
+-->
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
@@ -63,9 +65,14 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
+ <summary><h3>👨‍💻My Coding Journey</h3></summary>
+   Starting my coding journey was an exciting and fascinating experience for me. It all began when I developed a keen interest in hacking and coding. I was always intrigued by the world of technology and wanted to explore it further.
+As a student without access to an Arduino board, I found creative ways to mimic Arduino projects using DIY projects. I would recycle materials and components to create my own versions of these projects. This hands-on approach allowed me to gain a deeper understanding of how things worked and ignited my passion for coding.
+In grade 9, I took my first step into the world of coding. I started learning Python and quickly discovered that I had a natural talent for it. I found joy in writing simple scripts and exploring the endless possibilities that coding offered.
+Alongside Python, I also dabbled in web development. I enjoyed coding websites using HTML, CSS, and Javascript. It was fascinating to see my ideas come to life on the internet and interact with users from all over the world.
+In addition to coding, I developed skills in graphics editing. I became proficient in tools like Photoshop and Illustrator, allowing me to create visually appealing designs and illustrations.
+Currently, I am a student at OnePlanet International School, where I continue to expand my knowledge and skills in coding. I am eager to learn new technologies and explore different domains within the field of computer science.
+My coding journey has been filled with exciting challenges and rewarding experiences. I am grateful for the opportunities I have had to explore my passions and develop my skills. I look forward to what the future holds as I continue to grow as a coder and pursue my dreams in the world of technology.
 [website]: https://Enattechnology.web.app
 [youtube]: https://youtube.com/Abenezer__
 [instagram]: https://www.instagram.com/abenii__/

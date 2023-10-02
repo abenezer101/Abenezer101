@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5016&pause=1009&color=F70000&vCenter=true&width=435&lines=WebDeveloper+%2F+WebDesigner;Ethical+Hacker;Programmer;Graphics+Designer)](https://git.io/typing-svg)
 
 
-   <p align="left">
+  <!-- <p align="left">
       <a href="https://www.youtube.com/c/Abenezer__?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
@@ -15,7 +15,7 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+-->
 ---
 
 ### 🧰 Languages and Tools

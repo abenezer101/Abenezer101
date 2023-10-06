@@ -2,8 +2,7 @@
 
 **`I am a `**
 
-([![Typing SVG](https://readme-typing-svg.demolab.com?font=Ropa+Sans&weight=600&size=33&duration=3000&pause=1009&color=F70000&width=435&lines=a+web+Designer%2FDeveloper;a+Graphics+Designer;a+Programmer;an+Ethical+Hacker).
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ropa+Sans&weight=600&size=33&duration=3000&pause=1009&color=F70000&width=435&lines=a+web+Designer%2FDeveloper;a+Graphics+Designer;a+Programmer;an+Ethical+Hacker)](https://git.io/typing-svg)
   <!-- <p align="left">
       <a href="https://www.youtube.com/c/Abenezer__?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 

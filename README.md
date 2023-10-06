@@ -2,7 +2,7 @@
 
 **`I am a `**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5016&pause=1009&color=F70000&vCenter=true&width=435&lines=WebDeveloper+%2F+WebDesigner;Ethical+Hacker;Programmer;Graphics+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5016&pause=1009&color=F70000&vCenter=true&width=435&lines=WebDeveloper+%2F+a%2fWebDesigner;an%2fEthical+Hacker;a%2fProgrammer;a%2fGraphics+Designer)](https://git.io/typing-svg)
 
 
   <!-- <p align="left">

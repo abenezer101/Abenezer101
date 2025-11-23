@@ -1,69 +1,54 @@
-# Abenezer Abera
+# 🚀 **Introduction**
+### **Hi, I'm Abenezer Mergia**
 
-**`I am  `**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71A1A&random=true&width=435&lines=Building+AI+Apps;Engineering+Student;Fullstack+Developer;SaaS+Projects+In+Progress)](https://git.io/typing-svg)
+---
+# 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ropa+Sans&weight=600&size=33&duration=3000&pause=1009&color=F70000&width=435&lines=a+web+Designer%2FDeveloper;a+Graphics+Designer;a+Programmer;an+Ethical+Hacker)](https://git.io/typing-svg)
-  <!-- <p align="left">
-      <a href="https://www.youtube.com/c/Abenezer__?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
--->
+ *  Founder of LecturaAI : an all-in-one AI-powered study assistant
+ * Building Telegram-based apps, student productivity tools, and mini-SaaS projects
+ * Passionate about AI engineering, workflow automation, and full-stack development
+ * Currently diving deeper into:
+   - Computer Engineering fundamentals
+   - AI pipelines & model integrations
+   - DevOps (Render, Vercel, Google Cloud)
+   - Ethical hacking & penetration testing
+ * Fun fact: I build more apps than I publicly share — from offline AI extensions to automation tools. Shipping one polished product is harder than starting ten 😅
+ * I’m a Christian who loves Jesus ❤️✝️ — and that purpose guides everything I create.
+
+ <details>
+  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+
+I got into coding early through curiosity about hacking, electronics, and how things work.  
+Before I had access to hardware like Arduino, I built DIY versions using recycled parts — which taught me problem-solving and resourcefulness.
+
+I started programming with Python in high school, then moved into web development and graphics editing. Over time, that foundation evolved into a passion for building real products — from Telegram-based systems to AI-powered SaaS apps.
+
+Today, as a Computer Engineering student, I’m focused on AI engineering, automation, and full-stack development. I’m constantly learning, experimenting, and building tools that solve real problems.
+
+</details>
+
 ---
 
-### 🧰 Languages and Tools
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-mergia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abenii__) 
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-#
 
-<!--### 📺 Latest YouTube Videos-->
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!--
-[![I Built an AI That Feeds Me Coffee for Maximum Efficiency](https://ytcards.demolab.com/?id=tyAPu2cCOZE&title=I+Built+an+AI+That+Feeds+Me+Coffee+for+Maximum+Efficiency&lang=en&timestamp=1693404079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "I Built an AI That Feeds Me Coffee for Maximum Efficiency")](https://www.youtube.com/watch?v=tyAPu2cCOZE)
-[![My Entire Computer Science Student Setup in Notion](https://ytcards.demolab.com/?id=Nv1Z3Aximdg&title=My+Entire+Computer+Science+Student+Setup+in+Notion&lang=en&timestamp=1692043807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296 "My Entire Computer Science Student Setup in Notion")](https://www.youtube.com/watch?v=Nv1Z3Aximdg)
-[![Stack Overflow is dead 😂](https://ytcards.demolab.com/?id=xsXisg-rceQ&title=Stack+Overflow+is+dead+%F0%9F%98%82&lang=en&timestamp=1691589645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=179 "Stack Overflow is dead 😂")](https://www.youtube.com/watch?v=xsXisg-rceQ)
-[![How I Remember Everything (the crazy way)](https://ytcards.demolab.com/?id=u5DGCj5QQTg&title=How+I+Remember+Everything+%28the+crazy+way%29&lang=en&timestamp=1691420442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592 "How I Remember Everything (the crazy way)")](https://www.youtube.com/watch?v=u5DGCj5QQTg)
-[![Three tools that enhance my coding workflow](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")](https://www.youtube.com/watch?v=o4v1tFN7SBk)
-[![How to Level Up Your Programming](https://ytcards.demolab.com/?id=WFRvz7LDUeI&title=How+to+Level+Up+Your+Programming&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601 "How to Level Up Your Programming")](https://www.youtube.com/watch?v=WFRvz7LDUeI)
--->
-<!-- END YOUTUBE-CARDS -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abenezer101&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abenezer101&theme=github_dark&hide_border=false)<br/>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/Abenezer__?sub_confirmation=1)
 
-#
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abenezer101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📊 Stats
-
-<!--![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)-->
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻My Coding Journey</h3></summary>
-   Starting my coding journey was an exciting and fascinating experience for me. It all began when I developed a keen interest in hacking and coding. I was always intrigued by the world of technology and wanted to explore it further.
-As a student without access to an Arduino board, I found creative ways to mimic Arduino projects using DIY projects. I would recycle materials and components to create my own versions of these projects. This hands-on approach allowed me to gain a deeper understanding of how things worked and ignited my passion for coding.
-In grade 9, I took my first step into the world of coding. I started learning Python and quickly discovered that I had a natural talent for it. I found joy in writing simple scripts and exploring the endless possibilities that coding offered.
-Alongside Python, I also dabbled in web development. I enjoyed coding websites using HTML, CSS, and Javascript. It was fascinating to see my ideas come to life on the internet and interact with users from all over the world.
-In addition to coding, I developed skills in graphics editing. I became proficient in tools like Photoshop and Illustrator, allowing me to create visually appealing designs and illustrations.
-Currently, I am a student at OnePlanet International School, where I continue to expand my knowledge and skills in coding. I am eager to learn new technologies and explore different domains within the field of computer science.
-My coding journey has been filled with exciting challenges and rewarding experiences. I am grateful for the opportunities I have had to explore my passions and develop my skills. I look forward to what the future holds as I continue to grow as a coder and pursue my dreams in the world of technology.
-[website]: https://Enattechnology.web.app
-[youtube]: https://youtube.com/Abenezer__
-[instagram]: https://www.instagram.com/abenii__/
-[stackoverflow]: https://stackoverflow.com/users/22426545/abenezer-abera
+---
+### 📫 Want to collaborate or build something cool?  
+#### Reach out on LinkedIn or X!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-mergia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abenii__) 
+---
+[![](https://visitcount.itsvg.in/api?id=Abenezer101&icon=0&color=2)](https://visitcount.itsvg.in)

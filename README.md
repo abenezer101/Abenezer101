@@ -5,7 +5,7 @@
 ---
 # 💫 About Me:
 
- *  Founder of LecturaAI : an all-in-one AI-powered study assistant
+ * Founder of [LecturaAI](https://lecturaai.com) : an all-in-one AI-powered study assistant
  * Building Telegram-based apps, student productivity tools, and mini-SaaS projects
  * Passionate about AI engineering, workflow automation, and full-stack development
  * Currently diving deeper into:
@@ -15,6 +15,9 @@
    - Ethical hacking & penetration testing
  * Fun fact: I build more apps than I publicly share — from offline AI extensions to automation tools. Shipping one polished product is harder than starting ten 😅
  * I’m a Christian who loves Jesus ❤️✝️ — and that purpose guides everything I create.
+ * I’m most interested in real-world machine learning problems, especially applying Deep learning algorithms to solve problems many students face. I believe that we could able to create an algorithm to predict some funny questions like “What if Einstein was still alive with today’s technology? How far in science would we be? Would we have started time travel?”.
+
+P.S If you want to talk about Quantum Neural Network or Energy efficient Deep learning Models, let me know.
 
  <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>

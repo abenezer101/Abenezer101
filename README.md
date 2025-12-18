@@ -10,7 +10,7 @@
 # 🚀 **Introduction**
 ### **Hi, I'm Abenezer Mergia**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71A1A&random=true&width=435&lines=Building+AI+Apps;Engineering+Student;Fullstack+Developer;SaaS+Projects+In+Progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71A1A&random=true&width=435&lines=Engineering+Student;Building+AI-powered+tools;Full-stack+projects;SaaS+Projects+In+Progress)](https://git.io/typing-svg)
 ---
 # 💫 About Me:
 

@@ -4,7 +4,6 @@
     alt="Abenezer Mergia"
     width="full"
     height="50%"
-    style="border-radius: 50%; border: 4px solid #F71A1A;"
   />
 </div>
 

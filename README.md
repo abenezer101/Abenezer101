@@ -1,3 +1,12 @@
+<div align="center">
+  <img 
+    src="/gradient.png" 
+    alt="Abenezer Mergia"
+    width="180"
+    style="border-radius: 50%; border: 4px solid #F71A1A;"
+  />
+</div>
+
 # 🚀 **Introduction**
 ### **Hi, I'm Abenezer Mergia**
 

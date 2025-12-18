@@ -2,7 +2,7 @@
   <img 
     src="/gradient.png" 
     alt="Abenezer Mergia"
-    width="180"
+    width="full"
     style="border-radius: 50%; border: 4px solid #F71A1A;"
   />
 </div>

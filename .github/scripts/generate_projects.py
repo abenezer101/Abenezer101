@@ -6,8 +6,8 @@ Reads projects.json (user curated) + live GitHub data merged by the workflow.
 One SVG, 2-column grid of mini terminal cards. Add/remove/reorder projects by
 editing projects.json — the README never changes.
 
-Theme: matches the profile banner (navy #0A101F, cyan #22D3EE, violet #A78BFA,
-emerald #10B981, mono font, dotted leaders, pulsing dots, animated accents).
+Theme: matches the profile banner (navy #0A101F, red #ED0232, rose #FF4D6D,
+deep red #B0011F, mono font, dotted leaders, pulsing dots, animated accents).
 """
 import json, base64, os, sys, math, html
 from datetime import datetime, timezone
@@ -16,23 +16,23 @@ from datetime import datetime, timezone
 THEMES = {
     "dark": {
         "BG": "#0A101F", "PANEL": "#0C1426", "PANEL_BAR": "#0B1222",
-        "CYAN": "#22D3EE", "VIOLET": "#A78BFA", "VIOLET2": "#7C3AED",
-        "EMERALD": "#10B981", "TEXT": "#F8FAFC", "MUTED": "#94A3B8",
+        "CYAN": "#ED0232", "VIOLET": "#FF4D6D", "VIOLET2": "#B0011F",
+        "EMERALD": "#FF1F4D", "TEXT": "#F8FAFC", "MUTED": "#94A3B8",
         "DIM": "#475569",
-        "STROKE": "rgba(34,211,238,0.28)", "STROKE_HI": "rgba(34,211,238,0.5)",
-        "STROKE_LO": "rgba(34,211,238,0.22)", "BARLINE": "rgba(255,255,255,0.08)",
-        "RING_BG": "rgba(148,163,184,0.15)", "PILL_BG": "rgba(124,58,237,0.28)",
-        "PILL_STROKE": "rgba(167,139,250,0.5)", "MONO_TX": "#EDE9FE",
+        "STROKE": "rgba(237,2,50,0.28)", "STROKE_HI": "rgba(237,2,50,0.5)",
+        "STROKE_LO": "rgba(237,2,50,0.22)", "BARLINE": "rgba(255,255,255,0.08)",
+        "RING_BG": "rgba(148,163,184,0.15)", "PILL_BG": "rgba(176,1,31,0.28)",
+        "PILL_STROKE": "rgba(255,77,109,0.5)", "MONO_TX": "#FCE7EA",
     },
     "light": {
         "BG": "#F8FAFC", "PANEL": "#FFFFFF", "PANEL_BAR": "#F1F5F9",
-        "CYAN": "#0891B2", "VIOLET": "#7C3AED", "VIOLET2": "#7C3AED",
-        "EMERALD": "#059669", "TEXT": "#0F172A", "MUTED": "#475569",
+        "CYAN": "#ED0232", "VIOLET": "#B0011F", "VIOLET2": "#B0011F",
+        "EMERALD": "#FF4D6D", "TEXT": "#0F172A", "MUTED": "#475569",
         "DIM": "#94A3B8",
-        "STROKE": "rgba(8,145,178,0.30)", "STROKE_HI": "rgba(8,145,178,0.55)",
-        "STROKE_LO": "rgba(8,145,178,0.20)", "BARLINE": "rgba(0,0,0,0.08)",
-        "RING_BG": "rgba(100,116,139,0.20)", "PILL_BG": "rgba(124,58,237,0.12)",
-        "PILL_STROKE": "rgba(124,58,237,0.4)", "MONO_TX": "#FFFFFF",
+        "STROKE": "rgba(237,2,50,0.30)", "STROKE_HI": "rgba(237,2,50,0.55)",
+        "STROKE_LO": "rgba(237,2,50,0.20)", "BARLINE": "rgba(0,0,0,0.08)",
+        "RING_BG": "rgba(100,116,139,0.20)", "PILL_BG": "rgba(176,1,31,0.12)",
+        "PILL_STROKE": "rgba(176,1,31,0.4)", "MONO_TX": "#FFFFFF",
     },
 }
 
@@ -46,7 +46,7 @@ def set_theme(name):
     g = globals()
     for k, v in t.items():
         g[k] = v
-    g["DONUT_COLORS"] = [t["VIOLET"], t["CYAN"], t["EMERALD"], "#6366F1", "#64748B", "#94A3B8"]
+    g["DONUT_COLORS"] = [t["VIOLET"], t["CYAN"], t["EMERALD"], "#FF8FA3", "#64748B", "#94A3B8"]
 
 set_theme("dark")
 

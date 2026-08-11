@@ -1,16 +1,16 @@
 [
   {
-    "name": "Prepl",
-    "repo": "abenezer101/prepl",
-    "logo": "logo.png",
-    "description": "AI interview platform running realistic voice interviews with adaptive follow-up questions and feedback",
-    "tags": ["Next.js", "FastAPI", "LiveKit", "Gemini"]
-  },
-  {
     "name": "Lectura AI",
     "repo": "abenezer101/lectura-ai",
-    "logo": "logo.png",
+    "logo": "lectura-logo.png",
     "description": "AI-native study platform that turns lectures, PDFs, and course material into notes, flashcards, and quizzes",
     "tags": ["Next.js", "Gemini", "OpenAI", "RAG"]
-  }
+  },
+  {
+    "name": "Prepl",
+    "repo": "abenezer101/prepl",
+    "logo": "prepl-logo.png",
+    "description": "AI interview platform running realistic voice interviews with adaptive follow-up questions and feedback",
+    "tags": ["Next.js", "FastAPI", "LiveKit", "Gemini live", "Deepgram"]
+  }  
 ]
